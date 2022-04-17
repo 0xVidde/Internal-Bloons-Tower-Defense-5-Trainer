@@ -20,4 +20,17 @@ Please do not roast my shitty c++ code; it's my first ever real c++ project.
         Fully Customizable Gui Menu (Visually) (Powered By ImGui OpenGL 2)
 
 Preview:
-![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/965272225374670898/preview3.png?size=4096?raw=true "Optional Title")
+
+
+
+
+
+
+
+
+
+
+
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/965272225374670898/preview3.png?size=4096?raw=true "...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/965272218353405972/preview2.png?size=4096?raw=true "...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/965272225374670898/preview3.png?size=4096?raw=true "...")
