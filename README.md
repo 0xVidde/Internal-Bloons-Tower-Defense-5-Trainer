@@ -17,4 +17,4 @@ Please do not roast my shitty c++ code; it's my first ever real c++ project.
         Slider For In Game Health,
         Slider For In Game Round
         
-        Fully Customizable Gui Menu (Visually) (Powered By ImGui)
+        Fully Customizable Gui Menu (Visually) (Powered By ImGui OpenGL 2)
